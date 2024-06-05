@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "339679793930",
+    "project_id": "truckerapp-87bba",
+    "storage_bucket": "truckerapp-87bba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339679793930:android:85d4099b37b9fbe7b9a0f3",
+        "android_client_info": {
+          "package_name": "com.whitefalcon.trucker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339679793930-4u36utsiuv42j4hhqnnfv77bgmg4kljf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whitefalcon.trucker",
+            "certificate_hash": "2a972fa8872a3a70f3ef63046ba3a53609150bd1"
+          }
+        },
+        {
+          "client_id": "339679793930-girt832k7tisljbrtqlp3pf824er5vjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whitefalcon.trucker",
+            "certificate_hash": "6fddbe6504eb2accc5e3d188fc8d0e3fbad3de63"
+          }
+        },
+        {
+          "client_id": "339679793930-v4r47p7hld5j13e4vrsn9u7j07nbkla5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyBJuv6wc67Uv2iJJMRwJKTLCVIJf9QgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339679793930-v4r47p7hld5j13e4vrsn9u7j07nbkla5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339679793930-q6fjfsv2110do1lqeftuqb3n67qjfk2q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whitefalcon.trucker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
